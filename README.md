@@ -16,7 +16,7 @@ Based on original guide: https://github.com/paulhandy/hellocomputor
 - Run: ```choco install qemu -y```
 - Run: ```setx /M PATH "$Env:PATH;C:\Program Files\qemu;C:\Program Files\LLVM\bin"```
 - Run: ```choco install git -y```
-- Reboot System
+- Reboot System! **I am serious - you shold better do this - if you omit this and you just reopen powershell or only do an refreshenv chances are very high building below does not work. So you better take this short break and let your machine process all those new software installs.**
 - Open Powershell as Admin
 - Run: ```git clone https://github.com/paulhandy/hellocomputor.git```
 - Run: ```cd hellocomputor```
