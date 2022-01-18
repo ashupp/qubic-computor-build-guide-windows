@@ -1,6 +1,6 @@
 ## qubic-computor-build-guide-windows
 
-### A step-by-step guide to build computor binaries from scratch
+### A step-by-step guide to build qubic computor binaries from scratch
 
 I hacked together another step-by-step guide for compiling Computor Based on version of @crypdro and @Chris Dukakis on windows with some modifications  
 
