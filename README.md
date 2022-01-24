@@ -2,6 +2,8 @@
 
 ### A step-by-step guide to build qubic computor binaries from scratch
 
+#### Attention: Right now this is only for the hellocpomputor test - not for the real computor binaries. These must be compiled with Visual Studio
+
 I hacked together another step-by-step guide for compiling Computor Based on version of @crypdro and @Chris Dukakis on windows with some modifications  
 
 Based on original guide: https://github.com/paulhandy/hellocomputor
